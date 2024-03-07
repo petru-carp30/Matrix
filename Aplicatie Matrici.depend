@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615825990 source:d:\info\aplicatie matrici\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<cstring>
+	<string>
+	<iomanip>
+
